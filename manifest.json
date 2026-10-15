@@ -1,0 +1,20 @@
+{
+  "name": "Физика Sprint — подготовка к зачёту",
+  "short_name": "Физика Sprint",
+  "description": "64 темы, билет № 1, тренировки и шпаргалка по электричеству и магнетизму.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a1020",
+  "theme_color": "#0a1020",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
